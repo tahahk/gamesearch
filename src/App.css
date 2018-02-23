@@ -1,0 +1,41 @@
+.titleImage{
+  height: 200px;
+}
+
+.center{
+  text-align: center;
+  width: 80%;
+  left : 10%;
+  margin-bottom: 8px
+}
+body{
+  padding: 0px;
+  margin: 0 auto
+}
+
+#start,#end{
+  width: 300px;
+  height: 40px;
+  margin-left: 10px;
+  border-radius: 10px;
+
+}
+.search{
+  position: relative;
+  text-align: center;
+  margin-top: 30px;
+  border-bottom: 1px solid #333;
+  width: 80%;
+  left: 10%
+}
+button{
+  width: 183px;
+  left: 10%;
+  text-align: center;
+  position: relative;
+  left: 1%;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
